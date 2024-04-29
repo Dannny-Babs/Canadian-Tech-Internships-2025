@@ -1,8 +1,8 @@
 # Canadian-Tech-Internships-2025
 
-![Canadian-Tech-Internships-Summer-2024.png](Banner\Banner.png)
-![Canadian-Tech-Internships-Summer-2024-Image-2.png](Banner\Banner.png)
-Looking for tech internships in Canada for Summer 2025? This repository hosts a crowdsourced list of Canadian tech companies hiring interns in various tech, software engineering, and related fields. Get a head start on your internship search today!. Thanks to [Jenn Dryden](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the Canadian 2024 internships for formatting inspiration.
+![Canadian-Tech-Internships-Summer-2024.png]([Banner\Banner.png](https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025/blob/main/Banner/Banner.png))
+![Canadian-Tech-Internships-Summer-2024-Image-2.png]([Banner\Banner.png](https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025/blob/main/Banner/Banner-2.png))
+Looking for tech internships in Canada for Summer 2025? This repository hosts a crowdsourced list of Canadian tech companies hiring interns in various tech, software engineering, and related fields. Get a head start on your internship search today!. Thanks to [Jenn Dryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) who made a similar document for the Canadian 2024 internships for formatting inspiration.
  
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, InternInsider, WellFound & YC (startups).
 Summer 2025 Tech Internships!
