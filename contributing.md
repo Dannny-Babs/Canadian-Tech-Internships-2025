@@ -1,10 +1,10 @@
-🏆 **Contribution Guidelines**
+# 🏆 **Contribution Guidelines**
 
 Thank you for your interest in contributing to the Canadian Tech Internships Summer 2025 repository.
 
 Below, you'll find our guidelines for contributing to the repository. If you encounter any issues or unexpected changes, please create an issue. For questions, suggestions, or recommendations, feel free to join the discussions.
 
-🔎 **Finding an Internship to Add**
+# 🔎 **Finding an Internship to Add**
 
 When adding internships, please ensure they adhere to the following guidelines:
 
@@ -15,7 +15,7 @@ When adding internships, please ensure they adhere to the following guidelines:
 - Internships must be located in Canada or available for remote work.
 - Ensure the internship does not already exist in the list.
 
-📝 **Editing README.md**
+# 📝 **Editing README.md**
 
 To add a new internship:
 
@@ -28,7 +28,7 @@ To add a new internship:
 
 3. Create a pull request.
 
-🎨 **Code Formatting**
+# 🎨 **Code Formatting**
 
 When contributing, please follow the same format as shown above.
 
