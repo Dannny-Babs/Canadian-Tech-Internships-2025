@@ -17,6 +17,7 @@ To contribute:
 
 # 🎉 Summer 2025 Applications
 
-| Name | Location | Application Status | Notes | Date Posted |
-| ---- | -------- | ----------------- | ----- | ----------- |
-| [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |
+| Name | Location | Application Status | Notes | Date Posted | Deadline |
+| ---- | -------- | ----------------- | ----- | ----------- | --------- |
+| [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/137792335466373830-software-developer-intern-bs-summer-2025) | Waterloo & Toronto, ON; Montreal, QC, Canada. | Open ✅ | Software Developer Intern (Site Reliability Intern) - Summer 2025 | June 14th, 2025 | June 21st, 2024|
