@@ -20,7 +20,6 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/137792335466373830-software-developer-intern-bs-summer-2025) | Waterloo & Toronto, ON; Montreal, QC, Canada. | Open ✅ | Software Developer Intern (Site Reliability Intern) - Summer 2025 | June 14th, 2024 | June 30th, 2024|
 | [Ansys](https://careers.ansys.com/job/Waterloo-SpringSummer-2025-Software-Development-Intern-%28Mechanical-or-Aerospace-BS%29-ON-N2J4G8/1178501500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Waterloo, ON | Open ✅ | Software Development Intern (Mechanical or Aerospace BS) | June 12, 2024 | Unknown |
 | [Konrad](https://www.konrad.com/careers/job/software-developer-intern-may-2025-4-months_5997801003) | Toronto, ON | Open ✅ | Software Developer Intern - May 2025 (4 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Konrad](https://www.konrad.com/careers/job/ui-ux-design-intern-may-2025-4-months_5997773003) | Toronto, ON | Open ✅ | UI/UX Design Intern - May 2025 (4 months) | Date Posted Unknown🔐👀 | Deadline Unknown 🔐👀 |
