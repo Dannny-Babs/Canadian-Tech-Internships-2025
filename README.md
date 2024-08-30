@@ -25,4 +25,7 @@ To contribute:
 | [Konrad](https://www.konrad.com/careers/job/software-developer-intern-may-2025-4-months_5997801003) | Toronto, ON | Open ✅ | Software Developer Intern - May 2025 (4 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Konrad](https://www.konrad.com/careers/job/ui-ux-design-intern-may-2025-4-months_5997773003) | Toronto, ON | Open ✅ | UI/UX Design Intern - May 2025 (4 months) | Date Posted Unknown🔐👀 | Deadline Unknown 🔐👀 |
 | [DropBox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1) | Alberta, British Columbia, Ontario, and Saskatchewan. | Open ✅ |Software Engineer Intern - May & June 2025 (4 months) | August 29, 2024| Deadline Unknown 🔐👀 |
-
+| [Stripe](https://stripe.com/jobs/listing/software-engineer-intern/6172089?gh_src=73vnei) | Toronto, ON | Open ✅ | Software Engineer Intern | August 23, 2024| Deadline Unknown 🔐👀 |
+| [ECO Canada](https://gethired.com/a/9ffacc0c-8e70-4d37-a119-ce3903958925?rcid=linkedin) | Calgary, AB | Open ✅ | Intern App Development (Co-op) - Spring 2025 | August 26, 2024 | Deadline Unknown 🔐👀 |
+| [BDO Canada](https://www.bdo.ca/en-ca/careers/students/) | Toronto, ON | Open ✅ | Co-op or Intern, DevOps Engineer (Winter 2025) | August 28, 2024 | Deadline Unknown 🔐👀 |
+| [BDO Canada](https://bdo.wd3.myworkdayjobs.com/en-US/BDO?workerSubType=f2258eb0c3fe01be4bc2baac7a158d0c) | Various Locations | Open ✅ | Multiple Development Roles (Winter, Spring, Summer, Fall 2025) | August 28, 2024  | Deadline Unknown 🔐👀 |
