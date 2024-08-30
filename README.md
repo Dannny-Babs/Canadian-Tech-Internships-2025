@@ -24,5 +24,5 @@ To contribute:
 | [Ansys](https://careers.ansys.com/job/Waterloo-SpringSummer-2025-Software-Development-Intern-%28Mechanical-or-Aerospace-BS%29-ON-N2J4G8/1178501500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Waterloo, ON | Open ✅ | Software Development Intern (Mechanical or Aerospace BS) | June 12, 2024 | Unknown |
 | [Konrad](https://www.konrad.com/careers/job/software-developer-intern-may-2025-4-months_5997801003) | Toronto, ON | Open ✅ | Software Developer Intern - May 2025 (4 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Konrad](https://www.konrad.com/careers/job/ui-ux-design-intern-may-2025-4-months_5997773003) | Toronto, ON | Open ✅ | UI/UX Design Intern - May 2025 (4 months) | Date Posted Unknown🔐👀 | Deadline Unknown 🔐👀 |
-| [DropBox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1) | Alberta, British Columbia, Ontario, and Saskatchewan. | Open ✅ |Software Engineer Intern - May & June 2025 (4 months) | Date Posted Unknown🔐👀 | Deadline Unknown 🔐👀 |
+| [DropBox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1) | Alberta, British Columbia, Ontario, and Saskatchewan. | Open ✅ |Software Engineer Intern - May & June 2025 (4 months) | August 29, 2024| Deadline Unknown 🔐👀 |
 
