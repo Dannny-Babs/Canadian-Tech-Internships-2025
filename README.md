@@ -1,5 +1,5 @@
 # Canadian-Tech-Internships-2025
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDannny-Babs%2FDannny-Babs&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDannny-Babs%2FCanadian-Tech-Internships-2025&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
 ![Canadian-Tech-Internships-Summer-2025.png](/Banner/Banner.png)
 ![Canadian-Tech-Internships-Summer-2025-Image-2.png](/Banner/Banner%202.png)
 Looking for tech internships in Canada for Summer 2025? This repository hosts a crowdsourced list of Canadian tech companies hiring interns in various tech, software engineering, and related fields. Get a head start on your internship search today!. Thanks to [Jenn Dryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) who made a similar document for the Canadian 2024 internships for formatting inspiration.
