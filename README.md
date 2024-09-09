@@ -38,4 +38,4 @@ To contribute:
 | [RBC Canada](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?from=50&s=1&rk=l-student-early-talent) | Toronto, Montreal, Calgary, Multiple Locations | Open ✅ | 2025 Winter Student Opportunities | August 16, 2024 | September 16, 2024 |
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/a1b94931-2fa0-4bde-bd6f-f6bcdb4cbfca) | Remote | Open ✅ | Intern, Software Development (Winter 2025) | September 6, 2024 | September 18, 2024 @ 5PM EST |
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/1d39e81a-bcfa-425a-a330-a15c0fcb3446) | Remote | Open ✅ | Intern, Data Science (Winter 2025) | Date Posted Unknown 🔐👀 | September 18, 2024 @ 5PM EST |
-| [Lyft](https://www.lyft.com/careers/early-talent) | Toronto, Canada | Open ✅ | Software Engineer Intern, Backend (Summer 2025) | September 6, 2024 | Deadline Unknown 🔐👀 |
+| [Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002) | Toronto, Canada | Open ✅ | Software Engineer Intern, Backend (Summer 2025) | September 6, 2024 | Deadline Unknown 🔐👀 |
