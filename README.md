@@ -1,5 +1,5 @@
 # Canadian-Tech-Internships-2025
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDannny-Babs%2FCanadian-Tech-Internships-2025&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
 ![Canadian-Tech-Internships-Summer-2025.png](/Banner/Banner.png)
 ![Canadian-Tech-Internships-Summer-2025-Image-2.png](/Banner/Banner%202.png)
 Looking for tech internships in Canada for Summer 2025? This repository hosts a crowdsourced list of Canadian tech companies hiring interns in various tech, software engineering, and related fields. Get a head start on your internship search today!. Thanks to [Jenn Dryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) who made a similar document for the Canadian 2024 internships for formatting inspiration.
@@ -38,5 +38,6 @@ To contribute:
 | [RBC Canada](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?from=50&s=1&rk=l-student-early-talent) | Toronto, Montreal, Calgary, Multiple Locations | Open ✅ | 2025 Winter Student Opportunities | August 16, 2024 | September 16, 2024 |
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/a1b94931-2fa0-4bde-bd6f-f6bcdb4cbfca) | Remote | Open ✅ | Intern, Software Development (Winter 2025) | September 6, 2024 | September 18, 2024 @ 5PM EST |
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/1d39e81a-bcfa-425a-a330-a15c0fcb3446) | Remote | Open ✅ | Intern, Data Science (Winter 2025) | Date Posted Unknown 🔐👀 | September 18, 2024 @ 5PM EST |
-| [Lyft](https://www.lyft.com/careers/early-talent) | Toronto, Canada | Open ✅ | Software Engineer Intern, Backend (Summer 2025) | September 6, 2024 | Deadline Unknown 🔐👀 |
+| [Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002) | Toronto, Canada | Open ✅ | Software Engineer Intern, Backend (Summer 2025) | September 6, 2024 | Deadline Unknown 🔐👀 |
+
 | [theScore](https://job-boards.greenhouse.io/coop) | Various Locations | Open ✅ | Multiple Development & Tech Roles (Co-op W2025),  Note: Limited roles  | September 11, 2024 | Deadline Unknown 🔐👀 |
