@@ -41,3 +41,5 @@ To contribute:
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002) | Toronto, Canada | Open ✅ | Software Engineer Intern, Backend (Summer 2025) | September 6, 2024 | Deadline Unknown 🔐👀 |
 | [theScore](https://job-boards.greenhouse.io/coop) | Various Locations | Open ✅ | Multiple Development & Tech Roles (Co-op W2025),  Note: Limited roles  | September 11, 2024 | Deadline Unknown 🔐👀 |
 | [Super](https://jobs.lever.co/super-com?location=Toronto) | Toronto & Waterloo, Remote | Open ✅ | 4 Tech Internships across different teams (Winter 2025) |September,2024 | Deadline Unknown 🔐👀 |
+| [Lyft](https://www.lyft.com/careers/early-talent?location=toronto%252C%2520canada) | Toronto, Canada | Open ✅ | Multiple Internships (Summer 2025) | September 13, 2024 | Deadline Unknown 🔐👀 |
+| [Shopify](https://www.shopify.com/careers/engineering-internships-winter-2025_4c5d6050-9a66-4b7e-8873-13b892846e66) | Ottawa, Toronto, Montreal, Waterloo, Remote - Americas | Open ✅ | Engineering Internships (Winter 2025) | September, 2024 | Deadline Unknown 🔐👀 |
