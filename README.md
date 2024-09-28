@@ -15,7 +15,7 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
-# 🎉 Summer 2025 Applications
+# 🎉 Winter & Summer 2025 Applications
 
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
@@ -71,3 +71,5 @@ To contribute:
 | [Amazon](https://www.amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=CA) | Toronto, ON, Canada | Open ✅ | Neuron Compiler Software Engineer Intern, Annapurna ML (12-month internship starting May 2025) | September 10, 2024 | Deadline Unknown 🔐👀 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2789685/front-end-engineer-internship-2025-can) | Vancouver, BC; Toronto, ON; Winnipeg, MN; Victoria, BC; Ottawa, ON; Calgary, AB | Open ✅ | Front-End Engineer Internship – 2025 (Winter, Summer, Fall) | September 28, 2024 | Deadline Unknown 🔐👀 |
 | [Remitly](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=40,h=40/https://builtin.com/sites/www.builtin.com/files/2021-07/Remitly%20Logo.png) | New Westminster, BC | Open ✅ | Software Engineering Co-op (Jan 2025 - Winter)- CA$42/hour  | September 17, 2024 | Deadline Unknown 🔐👀 |
+| [Confluent](https://jobs.jobvite.com/careers/confluent/job/oerwufwp/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Ontario, Canada | Open ✅ | 2025 Software Engineering Intern - Annual fixed monthly salary of $8,667| Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Stably](https://www.ycombinator.com/companies/stably/jobs/mJcbmq2-full-stack-engineer-co-op-internship?utm_source=syn_li) | CA / Remote (CA) | Open ✅ | Full Stack Engineer Co-Op Internship - $30K - $100K | Date Posted Unknown 🔐👀 |  Deadline Unknown   🔐👀 |
