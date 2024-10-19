@@ -103,3 +103,4 @@ To contribute:
 | [BMW Financial Services Canada](https://career5.successfactors.eu/careers?company=bmwag&career_job_req_id=135902&career_ns=job_application) | Richmond Hill, Canada | Open ✅ | Data & Analytics Intern (12 months) | September 8, 2024 | Deadline Unknown 🔐👀 |
 | [Justwin](https://www.justwin.ca/about-us/career-with-us/apply-job/?job_id=9497) | Remote/Onsite, Canada | Open ✅ | Mobile App Developer (CO-OP) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Picovoice](https://wellfound.com/jobs?job_listing_id=2482629) | Vancouver, Canada | Open ✅ | Software Engineer Intern | October 17, 2024 | Deadline Unknown 🔐👀 |
+| [Intelliware](https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843) | Downtown Toronto, Canada | Open ✅ | Software Developer Internship (4-16 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
