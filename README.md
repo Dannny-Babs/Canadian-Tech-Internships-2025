@@ -104,3 +104,4 @@ To contribute:
 | [Justwin](https://www.justwin.ca/about-us/career-with-us/apply-job/?job_id=9497) | Remote/Onsite, Canada | Open ✅ | Mobile App Developer (CO-OP) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Picovoice](https://wellfound.com/jobs?job_listing_id=2482629) | Vancouver, Canada | Open ✅ | Software Engineer Intern | October 17, 2024 | Deadline Unknown 🔐👀 |
 | [Intelliware](https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843) | Downtown Toronto, Canada | Open ✅ | Software Developer Internship (4-16 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | Toronto, CAN, San Francisco, CA & Remote - US & Canada | Open ✅ | Research Internship/Co-op ($34 - $60 USD/hr)| Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
