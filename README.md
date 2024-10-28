@@ -105,3 +105,5 @@ To contribute:
 | [Picovoice](https://wellfound.com/jobs?job_listing_id=2482629) | Vancouver, Canada | Open ✅ | Software Engineer Intern | October 17, 2024 | Deadline Unknown 🔐👀 |
 | [Intelliware](https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843) | Downtown Toronto, Canada | Open ✅ | Software Developer Internship (4-16 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | Toronto, CAN, San Francisco, CA & Remote - US & Canada | Open ✅ | Research Internship/Co-op ($34 - $60 USD/hr)| Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Intel](https://jobs.intel.com/en/job/-/-/599/69842310128?source=LinkedIn) | Toronto, Ontario, Canada | Open ✅ | Software and IP Engineering – Internship Positions | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Siemens](https://jobs.siemens.com/careers/job/563156120940050?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Toronto, Ontario, Canada (Remote) | Open ✅ | Software Engineering Intern (fullstack) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
