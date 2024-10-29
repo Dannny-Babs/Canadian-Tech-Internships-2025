@@ -21,6 +21,7 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS02F8F978CAB8445AB01A20FC582585A6EXTERNALENUSCA0CEA544C3D4F41AE88BB92E3B7FBB6/Software-Engineer-Intern-Toronto-Spring-2025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Toronto, Ontario, Canada | Open ✅ | Software Engineer Intern (Toronto) - Spring 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Siemens](https://jobs.siemens.com/careers/job/563156120940050?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Toronto, Ontario, Canada (Remote) | Open ✅ | Software Engineering Intern (fullstack) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Intel](https://jobs.intel.com/en/job/-/-/599/69842310128?source=LinkedIn) | Toronto, Ontario, Canada | Open ✅ | Software and IP Engineering – Internship Positions | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace) | Toronto, CAN, San Francisco, CA & Remote - US & Canada | Open ✅ | Research Internship/Co-op ($34 - $60 USD/hr)| Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
