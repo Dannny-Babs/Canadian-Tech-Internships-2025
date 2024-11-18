@@ -21,6 +21,7 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/206404?recommendation=&source=LinkedIn+Jobs&tags=) | Vancouver, Canada | Open ✅ | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Nestlé](https://jobdetails.nestle.com/job/North-York-Applications-Web-Developer-Intern-ON/1133104401/?feedId=256801&utm_source=LinkedInJobPostings) | North York, Canada | Open ✅ | Applications Web Developer Intern | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13705/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA) | Canada (Hybrid) | Open ✅ | Software Tools Development Coop Intern - Duration: 4 Months (Apr 28th, 2025, to Aug 29th, 2025) | Date Posted Unknown 🔐👀 |Deadline Unknown 🔐👀 |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-227255/Intern-Software-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | North York, Canada | Open ✅ | Intern, Software Engineering(Summer 2025) | November 2, 2024 | January 25, 2025 @ 11:59 PM EST 🔐👀 |
