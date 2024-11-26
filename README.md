@@ -21,6 +21,7 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUSD38DF19E64C1405CA3A1ADC24F5ADB9EEXTERNALENUS152B293DEC65486289577F50089728AC/Software-Engineer-Intern-Toronto-Summer-2025?utm_medium=phenom-feeds&utm_source=Q2P9NP2NNP&gh_src=ed5543a62) | Toronto, Ontario, Canada | Open ✅ | Software Engineer Intern (Toronto) - Summer 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Summer-2025--Remote--US--CAN-_R21099?source=LinkedIn_jobs) | Remote (US, CAN) | Open ✅ | Frontend Engineer Intern - Summer 2025 | Posted November 18th | Deadline Unknown 🔐👀 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/206404?recommendation=&source=LinkedIn+Jobs&tags=) | Vancouver, Canada | Open ✅ | Software Engineer Intern - Summer 2025 |Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Nestlé](https://jobdetails.nestle.com/job/North-York-Applications-Web-Developer-Intern-ON/1133104401/?feedId=256801&utm_source=LinkedInJobPostings) | North York, Canada | Closed ❌ | Applications Web Developer Intern | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
