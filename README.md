@@ -21,6 +21,7 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Univeris](https://jobs.lever.co/univeris.com/2b2a1e66-37e9-4326-b4fa-4af62271088a) | Toronto, Ontario, Canada | Open ✅ | DevSecOps Intern | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Shopify](https://www.shopify.com/careers/engineering-and-data-internships-summer-2025_8f38c8b3-606d-47bc-ac83-e6ce1767c8bd?) | Remote - Americas | Open ✅ | Engineering and Data Internships, Summer 2025 | December 18, 2024 | January 12, 2025 @ 11:59 PM EDT 🔐👀 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/204167?recommendation=&source=LinkedIn+Jobs&tags=) | Toronto (Glu Mobile), Ontario, Canada | Open ✅ | Software Engineering Intern Summer 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Warner Bros. Discovery](https://careers.wbd.com/global/en/job/WAMEGLOBALR000085057EXTERNALENGLOBAL/Software-Developer-Coop?utm_source=linkedin&utm_medium=phenom-feeds) | Kanata, ON, Canada | Open ✅ | Software Developer Coop- 12/16 months | December 17, 2024 | January 17, 2025 🔐👀 |
