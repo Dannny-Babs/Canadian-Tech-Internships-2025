@@ -21,6 +21,8 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Bosa Properties](https://job-boards.greenhouse.io/bosapropertiesinc/jobs/4475744008) | Vancouver, BC, Canada | Open ✅ | Intern, Full Stack Developer | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Twilio](https://job-boards.greenhouse.io/twilio/jobs/6330373) | Remote (BC, ON, AB), Canada | Open ✅ | Software Engineer Intern - Canada | January 2, 2025 | Deadline Unknown 🔐👀 |
 | [Univeris](https://jobs.lever.co/univeris.com/2b2a1e66-37e9-4326-b4fa-4af62271088a) | Toronto, Ontario, Canada | Open ✅ | DevSecOps Intern | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Shopify](https://www.shopify.com/careers/engineering-and-data-internships-summer-2025_8f38c8b3-606d-47bc-ac83-e6ce1767c8bd?) | Remote - Americas | Open ✅ | Engineering and Data Internships, Summer 2025 | December 18, 2024 | January 12, 2025 @ 11:59 PM EDT 🔐👀 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/204167?recommendation=&source=LinkedIn+Jobs&tags=) | Toronto (Glu Mobile), Ontario, Canada | Open ✅ | Software Engineering Intern Summer 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
