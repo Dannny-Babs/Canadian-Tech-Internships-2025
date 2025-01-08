@@ -21,6 +21,10 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Developer-Intern-Co-op--Summer-2025-_R_1386743?source=Linkedin) | Toronto, Ontario, Canada (Hybrid) | Open ✅ | Software Developer Intern/Co-op - Summer 2025 ($46,000/yr) | January 6, 2025 | January 30, 2025 🔐👀 |
+| [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2025--Co-op-Internship----4-Months_R240026799-1?source=Social_Linkedin) | Toronto, ON, Canada | Open ✅ | Software Developer, Summer 2025 (Co-op/Internship) - 4 Months | Posted Yesterday 🔐👀 | January 24, 2025 🔐👀 |
+| [Whatnot](https://job-boards.greenhouse.io/whatnot/jobs/5247639004) | Remote (US, Canada) | Open ✅ | Software Engineer Intern - Summer 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Cresta](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Toronto, Canada | Open ✅ | Software Engineer, Fullstack (Intern) - $30-$50/hr | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Bosa Properties](https://job-boards.greenhouse.io/bosapropertiesinc/jobs/4475744008) | Vancouver, BC, Canada | Open ✅ | Intern, Full Stack Developer | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Twilio](https://job-boards.greenhouse.io/twilio/jobs/6330373) | Remote (BC, ON, AB), Canada | Open ✅ | Software Engineer Intern - Canada | January 2, 2025 | Deadline Unknown 🔐👀 |
 | [Ericsson](https://jobs.ericsson.com/careers/job/563121762539474) | Ottawa, Canada (Hybrid) | Open ✅ | Software Developer Intern - Summer 2025 (8 months) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
