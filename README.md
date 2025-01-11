@@ -21,6 +21,8 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
+| [Lancey](https://www.workatastartup.com/jobs/71874) | Toronto, ON / Waterloo, ON, Canada | Open ✅ | Software Engineering (Intern/Co-op) - Full Stack - May 2025 start date | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/a50b5485-9c54-4198-a52d-be9bc06d919d) | Remote, Canada | Open ✅ | Intern, Software Development (Summer 2025) | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/job/1775093/Research-Intern---AI-driven-Hardware-Design) | Vancouver, BC, Canada | Open ✅ | Research Intern - AI-driven Hardware Design | October 7, 2024 | Deadline Unknown 🔐👀 |
 | [Lockheed Martin](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30122&siteid=6598#home) | Halifax NS, Montreal QC, Ottawa ON, Canada | Open ✅ | Multiple Tech Roles | Date Posted Unknown 🔐👀 | January 16, 2025 🔐👀 |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-7803981/xf-dd9cde5f40fb/candidate/so/pm/1/pl/1/opp/17084-2025-Programme-CEGEP-d-%C3%A9t%C3%A9-en-Technologie-Montr%C3%A9al-2025-Technology-College-Summer-Internship-Montreal/en-GB) | Montreal, Canada | Open ✅ | Technology College Summer Internship 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
