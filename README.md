@@ -15,6 +15,8 @@ To contribute:
 3. Open a pull request!
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
+>
+> For current Canadian student postings beyond this archived Summer 2025 list, [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free daily-updated board for internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other fields.
 
 ## 🎉 Winter & Summer 2025 Applications
 
